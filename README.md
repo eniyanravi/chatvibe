@@ -1,1 +1,2 @@
-# chatvibe
+# ChatVibe
+ChatVibe
